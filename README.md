@@ -1,6 +1,5 @@
 # OIBSIP-BMI-CALCULATOR
 BMI Calculator - Tkinter GUI Application
-BMI Calculator - Tkinter GUI Application
 This repository contains a Body Mass Index (BMI) Calculator built using Python and tkinter. It provides an easy-to-use graphical interface for calculating BMI, saving results, and resetting fields. The application is ideal for personal use and for those who want to track their BMI over time.
 
 Features
